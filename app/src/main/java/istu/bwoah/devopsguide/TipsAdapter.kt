@@ -1,4 +1,4 @@
-package com.example.lb3
+package istu.bwoah.devopsguide
 
 import android.view.LayoutInflater
 import android.view.View

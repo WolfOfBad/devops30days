@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LB3"
+rootProject.name = "devopsguide"
 include(":app")
  

@@ -1,4 +1,4 @@
-package com.example.lb3
+package com.example.devopsguide
 
 import org.junit.Test
 

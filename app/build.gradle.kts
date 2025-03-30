@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lb3"
+    namespace = "istu.bwoah.devopsguide"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.lb3"
+        applicationId = "istu.bwoah.devopsguide"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

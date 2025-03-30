@@ -1,4 +1,4 @@
-package com.example.lb3
+package istu.bwoah.devopsguide
 
 data class Tip(
     val day: Int,
